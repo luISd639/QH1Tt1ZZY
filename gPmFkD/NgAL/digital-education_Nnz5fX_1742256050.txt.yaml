@@ -147,7 +147,6 @@ winget:
           owner: microsoft
           name: winget-pkgs
           branch: master
-
 nfpms:
   - package_name: gop
     vendor: goplus
